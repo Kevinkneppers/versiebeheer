@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdfghjkp[perp[py
 =======
 jajkjaemhgaejhg
 >>>>>>> origin/master
+=======
+>>>>>>> parent of 9153ba5... fg
